@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Pane prefHeight="313.0" prefWidth="421.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="RIGHT" layoutX="129.0" layoutY="21.0" prefHeight="17.0" prefWidth="164.0" text="Bienvenido!" textFill="#159eff">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font></Label>
+            <Button fx:id="btn_siguiente" layoutX="170.0" layoutY="238.0" mnemonicParsing="false" onAction="#cambiar_pantalla" prefHeight="25.0" prefWidth="76.0" text="Siguiente" />
+            <Button layoutX="170.0" layoutY="274.0" mnemonicParsing="false" onAction="#salir" prefHeight="25.0" prefWidth="76.0" text="Salir" />
+            <ImageView fitHeight="111.0" fitWidth="234.0" layoutX="93.0" layoutY="72.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@harddisk.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="55.0" layoutY="194.0" text="Calcularemos la puntuación de un Hard Disk">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

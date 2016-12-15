@@ -1,0 +1,89 @@
+
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+
+Marca: Toshiba;
+ Rotaciones por minuto: 14400;
+ Tiempo de acceso: 1809.0;
+ Capacidad: 250500.0;
+
+Marca: Toshiba;
+ Rotaciones por minuto: 14400;
+ Tiempo de acceso: 1809.0;
+ Capacidad: 250500.0;
+
+Marca: Toshiba;
+ Rotaciones por minuto: 14400;
+ Tiempo de acceso: 1809.0;
+ Capacidad: 250500.0;
+
+Marca: Toshiba;
+ Rotaciones por minuto: 14400;
+ Tiempo de acceso: 1809.0;
+ Capacidad: 250500.0;
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+ Puntuacion final: 0.0
+Hard disk marca:SATA.
+Rotaciones por minuto: 30000.
+Tiempo de acceso: 603.0.
+Capacidad: 3006000.0.
+Puntuacion final: 3036603
+Hard disk marca:HP.
+Rotaciones por minuto: 15000.
+Tiempo de acceso: 1407.0.
+Capacidad: 501000.0.
+Puntuacion final: 517407
+Hard disk marca: Hp.
+Rotaciones por minuto: 15000.
+Tiempo de acceso: 1608.0.
+Capacidad: 501000.0.
+Puntuacion final: 517608
+
+Hard disk marca: ABC.
+Rotaciones por minuto: 3000.
+Tiempo de acceso: 402.0.
+Capacidad: 3757.5.
+Puntuacion final: 7159
+
+
+Hard disk marca: hp.
+Rotaciones por minuto: 14000.
+Tiempo de acceso: 402000.0.
+Capacidad: 3006.0.
+Puntuacion final: 419006
+
+
+Hard disk marca: hp.
+Rotaciones por minuto: 14000.
+Tiempo de acceso: 402000.0.
+Capacidad: 3006.0.
+Puntuacion final: 419006
+
+
+Marca: null;
+ Rotaciones por minuto: 0;
+ Tiempo de acceso: 0.0;
+ Capacidad: 0.0;
+ Puntuacion final: 0
